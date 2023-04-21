@@ -1,0 +1,38 @@
+{
+	"files" : 
+	{
+		"D:/Documents/testFolder" : 
+		[
+			{
+				"name" : "Frase.txt",
+				"size" : 1206
+			},
+			{
+				"D:/Documents/testFolder\\Quique" : 
+				[
+					{
+						"name" : "Historia.txt",
+						"size" : 183
+					},
+					{
+						"D:/Documents/testFolder\\Quique\\Inside" : 
+						[
+							{
+								"name" : "ai.png",
+								"size" : 97048
+							}
+						]
+					},
+					{
+						"name" : "Respaldo.txt",
+						"size" : 8364
+					}
+				]
+			},
+			{
+				"name" : "Texto1.txt",
+				"size" : 576
+			}
+		]
+	}
+}
